@@ -1,0 +1,19 @@
+{
+  "name": "react-lib",
+  "version": "1.0.0",
+  "description": "My React Library for Tugas RPL",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "FungsiLibrary"
+  ],
+  "author": "Andrew Gianto",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.2.65",
+    "react": "^18.2.0",
+    "typescript": "^5.4.2"
+  }
+}

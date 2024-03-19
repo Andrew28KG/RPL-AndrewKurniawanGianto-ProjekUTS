@@ -1,0 +1,22 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "@babel/preset-env": "^7.17.0",
+    "@babel/preset-react": "^7.16.7",
+    "babel-jest": "^27.5.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0"
+  }
+}
